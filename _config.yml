@@ -13,7 +13,7 @@
 title: ClimateNLP 2025
 
 # Your name to show in the footer
-author: The organizing comitee
+author: The organizing committee
 footerinfo:  The website modified from larel-workshop.github.io
 
 ###############################################
@@ -25,7 +25,7 @@ navbar-links:
   PROGRAM: "program"
   CALL FOR PAPERS: "callforpapers"
   SUBMISSION GUIDE: "submissionguide"
-  PAPERS: "papers"
+#  PAPERS: "papers"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
