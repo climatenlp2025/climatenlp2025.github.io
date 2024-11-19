@@ -26,7 +26,7 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://dominik-stammbach.github.io/">Dominik Stammbach</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/keynotes/gaku.jpg'>
+      <img class="organiser-img" src='/assets/img/gaku.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="gaku@stanford.edu">Gaku Morio</a> <br> <p class='speaker-affiliation'> Stanford University</p></div>
     </div>
     <div class="col-sm">
